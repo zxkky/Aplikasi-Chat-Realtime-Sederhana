@@ -63,10 +63,10 @@ http://localhost:3000
 ```
 ## 👨‍💻 Pengembang
 
-**Nama:** zxkky
-**Proyek:** Aplikasi Chat Realtime Sederhana
-**Versi:** 1.0.0
-**Lisensi:** MIT License
+- **Nama:** zxkky  
+- **Proyek:** Aplikasi Chat Realtime Sederhana  
+- **Versi:** 1.0.0  
+- **Lisensi:** MIT License  
 
 
 > 📘 *Proyek ini dibuat untuk latihan dan pembelajaran dasar Flask serta manajemen keuangan pribadi.*
