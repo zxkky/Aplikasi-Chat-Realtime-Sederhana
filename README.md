@@ -56,7 +56,8 @@ npm run dev
 Setelah server berjalan, buka link berikut:
 
 http://localhost:3000
-```
+
+---
 
 📂 Struktur Folder
 
