@@ -27,29 +27,26 @@ Pengguna dapat membuat atau bergabung ke dalam ruang obrolan (room), mengirim pe
 
 ---
 
-## ⚙️ Cara Instalasi & Menjalankan
+## ⚙️ Cara Menjalankan Proyek di Komputer Lokal
 
-1. **Clone repository**
+```bash
+# 1️⃣ Clone repository dari GitHub
+git clone https://github.com/zxkky/Aplikasi-Chat-Realtime-Sederhana.git
+cd Aplikasi-Chat-Realtime-Sederhana
 
-   ```bash
-   git clone https://github.com/username/chat-app.git
-   cd chat-app
-
-    Instal semua dependensi
-
+# 2️⃣ Instal semua dependensi
 npm install
 
-Jalankan server
-
+# 3️⃣ Jalankan server
+# Mode normal
 npm start
 
-atau jika menggunakan nodemon:
-
+# Atau mode pengembangan (otomatis restart saat file berubah)
 npm run dev
 
-Buka di browser
-
-Kunjungi: 👉 http://localhost:3000
+# 4️⃣ Buka aplikasi di browser
+# Setelah server berjalan, buka di browser:
+http://localhost:3000
 
 📂 Struktur Folder
 
