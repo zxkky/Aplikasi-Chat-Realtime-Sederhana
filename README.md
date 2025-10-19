@@ -32,35 +32,39 @@ Pengguna dapat membuat atau bergabung ke dalam ruang obrolan (room), mengirim pe
 ```bash
 git clone https://github.com/zxkky/Aplikasi-Chat-Realtime-Sederhana.git
 cd Aplikasi-Chat-Realtime-Sederhana
-
-2️⃣ Install Dependencies
+```
+###2️⃣ Install Dependencies
 
 Pastikan Node.js sudah terpasang di komputer kamu, lalu jalankan:
 
+```bash
 npm install
+```
 
-3️⃣ Jalankan Aplikasi
+###3️⃣ Jalankan Aplikasi
 
 Kamu bisa menjalankan aplikasi dengan dua cara:
 
-Mode Normal
+**Mode Normal**
 
+```bash
 npm start
+```
 
-Mode Pengembangan (dengan nodemon)
-
+**Mode Pengembangan (dengan nodemon)**
+```bash
 npm run dev
-
-4️⃣ Buka di Browser
+```
+###4️⃣ Buka di Browser
 
 Setelah server berjalan, buka link berikut:
-
+```bash
 http://localhost:3000
-
+```
 ---
-
 📂 Struktur Folder
-
+---
+```pgsql
 Aplikasi-Chat-Realtime-Sederhana/
 │
 ├── backend/
@@ -77,3 +81,4 @@ Aplikasi-Chat-Realtime-Sederhana/
 ├── package.json
 ├── README.md
 └── .gitignore
+```
