@@ -26,27 +26,37 @@ Pengguna dapat membuat atau bergabung ke dalam ruang obrolan (room), mengirim pe
 | **Deploy (opsional)** | Vercel / Render / cPanel |
 
 ---
+## ⚙️ Cara Menjalankan Aplikasi
 
-## ⚙️ Cara Menjalankan Proyek di Komputer Lokal
-
+### 1️⃣ Clone Repository
 ```bash
-# 1️⃣ Clone repository dari GitHub
 git clone https://github.com/zxkky/Aplikasi-Chat-Realtime-Sederhana.git
 cd Aplikasi-Chat-Realtime-Sederhana
 
-# 2️⃣ Instal semua dependensi
+2️⃣ Install Dependencies
+
+Pastikan Node.js sudah terpasang di komputer kamu, lalu jalankan:
+
 npm install
 
-# 3️⃣ Jalankan server
-# Mode normal
+3️⃣ Jalankan Aplikasi
+
+Kamu bisa menjalankan aplikasi dengan dua cara:
+
+Mode Normal
+
 npm start
 
-# Atau mode pengembangan (otomatis restart saat file berubah)
+Mode Pengembangan (dengan nodemon)
+
 npm run dev
 
-# 4️⃣ Buka aplikasi di browser
-# Setelah server berjalan, buka di browser:
+4️⃣ Buka di Browser
+
+Setelah server berjalan, buka link berikut:
+
 http://localhost:3000
+```
 
 📂 Struktur Folder
 
