@@ -60,7 +60,7 @@ http://localhost:3000
 
 📂 Struktur Folder
 
-chat-app/
+Aplikasi-Chat-Realtime-Sederhana/
 │
 ├── backend/
 │   ├── server.js
