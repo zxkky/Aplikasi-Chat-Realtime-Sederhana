@@ -61,5 +61,12 @@ Setelah server berjalan, buka link berikut:
 ```bash
 http://localhost:3000
 ```
-.gitignore
-```
+## 👨‍💻 Pengembang
+
+**Nama:** zxkky
+**Proyek:** Aplikasi Chat Realtime Sederhana
+**Versi:** 1.0.0
+**Lisensi:** MIT License
+
+
+> 📘 *Proyek ini dibuat untuk latihan dan pembelajaran dasar Flask serta manajemen keuangan pribadi.*
